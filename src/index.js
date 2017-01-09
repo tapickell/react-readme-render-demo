@@ -9,4 +9,4 @@ ReactDOM.render(
     { createRouter({ history: browserHistory }) }
   </div>,
   document.getElementById('root')
-);
+)
